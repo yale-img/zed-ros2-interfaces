@@ -84,6 +84,7 @@ set(MSG_FILES
     "msg/Keypoint2Di.msg"
     "msg/Keypoint2Df.msg"
     "msg/Keypoint3D.msg"
+    "msg/KeypointOrientation.msg"
     "msg/BoundingBox2Di.msg"
     "msg/BoundingBox2Df.msg"
     "msg/BoundingBox3D.msg"
